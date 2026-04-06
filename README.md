@@ -4,9 +4,19 @@
 
 This project is a backend system for a finance dashboard that manages financial transactions, user roles, and access control.
 
-**Note:** This is a backend-only project. APIs can be tested using Postman.
-
 It demonstrates clean backend architecture, API design, business logic implementation, and role-based authorization.
+
+---
+
+## Links
+
+### GitHub Repository
+https://github.com/chandu207-cmd/Finance-Data-Processing-and-Access-Control-Backend
+
+### 📄 API Documentation (Swagger UI)
+http://localhost:8081/swagger-ui/index.html
+
+**Note:** The API runs locally. Please follow the setup instructions below to access Swagger UI.
 
 ---
 
@@ -80,7 +90,7 @@ http://localhost:8081
 
 ---
 
-## API Testing (Postman)
+## API Testing (Postman or Swagger UI)
 
 ### Headers (Required for most APIs)
 
