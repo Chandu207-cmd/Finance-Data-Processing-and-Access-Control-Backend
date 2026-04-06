@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project is a backend system for a finance dashboard that manages financial transactions, user roles, and access control. It demonstrates clean backend architecture, API design, business logic implementation, and role-based authorization.
+This project is a backend system for a finance dashboard that manages financial transactions, user roles, and access control.
+
+**Note:** This is a backend-only project. APIs can be tested using Postman.
+
+It demonstrates clean backend architecture, API design, business logic implementation, and role-based authorization.
 
 ---
 
