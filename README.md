@@ -61,7 +61,7 @@ Returns structured JSON:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/finance-backend.git
+git clone https://github.com/chandu207-cmd/Finance-Data-Processing-and-Access-Control-Backend.git
 ```
 
 2. Open in Eclipse / IntelliJ
